@@ -1,0 +1,58 @@
+min 2
+2x_1 + 1x_2
+Ograniczenia:
+1x_1 + 1x_2 >= 3
+1x_1 + 2x_2 >= 4
+
+min 3
+5x_1 + 4x_2 + 6x_3
+Ograniczenia:
+1x_1 = 20
+1x_2 = 6
+5x_3 = 15
+
+min 2
+200x_1 + 100x_2
+Ograniczenia:
+3x_1 >= 9
+2x_2 >= 4
+
+min 2
+200x_1 + 100x_2
+Ograniczenia:
+3x_1 + 1x_2 >= 6
+1x_1 + 2x_2 >= 4
+
+min 2
+- 5x_1 - 3x_2
+Ograniczenia:
+3x_1 + 5x_2 <= 15
+5x_1 + 2x_2 <= 10
+
+min 3
+- 1x_1 + 1x_2
+Ograniczenia:
+6x_1 - 1x_2 <= 10
+1x_1 + 5x_2 >= 4
+1x_1 + 5x_2 + 1x_3 = 5
+
+min 2
+- 1x_1
+Ograniczenia:
+1x_1 + 1x_2 >= 6
+
+min 3
+5x_1 + 4x_2 + 6x_3
+Ograniczenia:
+1x_1 = 20
+1x_2 = 6
+5x_3 = 15
+1x_1 + 1x_2 + 1x_3 = 10
+
+min 2
+- 1x_1 - 1x_2
+Ograniczenia:
+1x_1 <= 4
+- 1x_2 <= 4
+1x_1 + 1x_2 = 6
+
