@@ -1,6 +1,6 @@
 import sys
 
-from InputParser import InputParser
+from input_parser import InputParser
 from scipy.optimize import linprog
 
 from simplex import Simplex
